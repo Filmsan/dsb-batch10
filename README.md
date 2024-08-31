@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at withisan.th@gmail.com
 
 ## Image
-![Deadpool](https://marvelcinematicuniverse.fandom.com/wiki/Deadpool)
+![Deadpool](https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ad/Deadpool_Infobox.png/revision/latest?cb=20240522015012)
